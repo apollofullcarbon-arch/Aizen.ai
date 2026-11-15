@@ -1,2 +1,2 @@
-# Aizen.ai
+o
 PWA para assistente pessoal Aizen
